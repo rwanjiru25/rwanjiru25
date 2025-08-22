@@ -1,5 +1,10 @@
 ## 👋hey i am rwanjiru25
-i am 
+👀I am interested in...
+👩‍🎓I am currently learning...
+🤝I am looking to collaborate on,,, an app for driver assistance and monitoring app
+📧how to reach me ...rwanjiru3854@gmail.com
+👩‍💻pronoun...SHE
+
 
 <!--
 **rwanjiru25/rwanjiru25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
